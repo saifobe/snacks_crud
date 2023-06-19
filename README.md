@@ -1,8 +1,8 @@
-# django-models
+# django-views (CRUD)
 
-# LAB - Class 27
+# LAB - Class 28
 
-## Project: snack_tracker_project
+## Project: snack_crud_project
 ---
 ### Author: Saif Mohammad Obeidat
 ---
